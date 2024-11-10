@@ -74,10 +74,7 @@ def math_quiz():
     The user is graded based on his answers
     """
     score = 0
-
     total_questions = 4
-
-
     print("Welcome to the Math Quiz Game!")
     print("You will be presented with math problems, and you need to provide the correct answers.")
 
